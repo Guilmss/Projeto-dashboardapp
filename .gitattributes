@@ -1,3 +1,4 @@
 *.html linguist-vendored
 *.ipynb linguist-vendored
-build/SlaDash/*.toc linguist-vendored
+*.toc linguist-vendored
+*.tox linguist-vendored
