@@ -45,6 +45,7 @@ Este projeto é uma dashboard de análise de vendas, desenvolvido como trabalho 
         python DashboardApp.py
         ```
     *   A aplicação será aberta em uma janela gráfica.
+    *   Caso esteja utilizando o sistema Windows, o programa pode ser executado através do arquivo SlaDash.exe, disponível como atalho ou na pasta dist.
 
 
 ## Exemplos de Login de Funcionários
